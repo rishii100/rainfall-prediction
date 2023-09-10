@@ -67,7 +67,7 @@ The rainfall data is loaded from a CSV file named "rainfall.csv." The dataset co
   - Evaluates the models using mean absolute error (MAE).
   - Provides explanations and comments along with the code.
 
-## Results
+## Result
 
 The results of the model evaluations are as follows:
 
